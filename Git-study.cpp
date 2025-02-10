@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-  cout<<"Create github file study"<<endl;
+  cout<<"firest updata github file study...."<<endl;
   return 0;
 }
